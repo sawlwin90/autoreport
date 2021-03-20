@@ -21,7 +21,9 @@
 
 ### Or, Use Single Command
 
-```apt update && apt install git -y && pkg install python && git clone https://github.com/KasRoudra/autoreport && cd autoreport && chmod +x ar.py && python ar.py```
+```
+apt update && apt install git -y && pkg install python && git clone https://github.com/KasRoudra/autoreport && cd autoreport && chmod +x ar.py && python ar.py
+```
 
 ### Tool Username: KasRoudra
 
