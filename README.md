@@ -1,13 +1,11 @@
 # AutoReport
 ### [+] Created By <a href="https://github.com/KasRoudra">KasRoudra</a>
 ### [+] Disclaimer :
-***This tool is only for educational purpose. The developer is not responible for any abuse of it***
+***This tool is only for educational purpose. The developer is not responible for any abuse of it.***
 
 ### [+] Installation
 
-```apt update```
-
-```apt install git -y```
+```pkg install figlet```
 
 ```pkg install python```
 
@@ -22,16 +20,20 @@
 ### Or, Use Single Command
 
 ```
-apt update && apt install git -y && pkg install python && git clone https://github.com/KasRoudra/autoreport && cd autoreport && chmod +x ar.py && python ar.py
+pkg install figlet && pkg install python && git clone https://github.com/KasRoudra/autoreport && cd autoreport && chmod +x ar.py && python ar.py
 ```
+
+### Screenshots:
+
+<img src="https://github.com/KasRoudra/autoreport/raw/main/ss.jpeg">
 
 ### Tool Username: KasRoudra
 
 ### Tool Password: kaspass
 
-## Google FindMyId, choose a website, give the facebook profile link in the website and copy the numeric id in clipboard
+## Google <a href="https://findmyfbid.in/">FindMyId</a>, choose a <a href="https://findmyfbid.me/">website</a>, enter the victim's facebook profile link in the website, genetate and copy the numeric id in clipboard.
 
-#### [+]Enter or paste that id in the input of Target id!
+#### [+]When asked by script, enter or paste that id in the input of Target id!
 
 ## [+] Find Me on :
 <ul>
